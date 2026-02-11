@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas de Informação**  
 📊 Apaixonada por **dados**, **inteligência artificial** e **insights que fazem a diferença**  
-💡 Atualmente pesquisando **acesso à saúde mental no Estado de São Paulo** usando **classificação de dados**
+💡 Atualmente pesquisando sobre **acesso à saúde mental no Estado de São Paulo** usando análise exploratória, ML e análise estatística. 
 
 ---
 
@@ -21,8 +21,8 @@
 ---
 
 ### ✨ Um pouco sobre mim:
-- Curiosa por natureza 
-- Café é meu combustível ☕
+- Curiosa por natureza
+- Não vivo sem café ☕
 - Praia é meu lugar feliz.   
 - Acho que **dados contam histórias melhores que muita gente**
 
